@@ -1,0 +1,9 @@
+C:\WAZNE!!!\SDA\Console\xml\xml\bin\Debug\xml.exe.config
+C:\WAZNE!!!\SDA\Console\xml\xml\obj\Debug\xml.csprojResolveAssemblyReference.cache
+C:\WAZNE!!!\SDA\Console\xml\xml\bin\Debug\xml.exe
+C:\WAZNE!!!\SDA\Console\xml\xml\bin\Debug\xml.pdb
+C:\WAZNE!!!\SDA\Console\xml\xml\obj\Debug\xml.exe
+C:\WAZNE!!!\SDA\Console\xml\xml\obj\Debug\xml.pdb
+C:\WAZNE!!!\SDA\Console\KarolPetrykowski\xml\bin\Debug\xml.exe.config
+C:\WAZNE!!!\SDA\Console\KarolPetrykowski\xml\obj\Debug\xml.exe
+C:\WAZNE!!!\SDA\Console\KarolPetrykowski\xml\obj\Debug\xml.pdb
